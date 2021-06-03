@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hell worl1");
         System.out.println("程序代码A");
         System.out.println("程序代码b");
+        System.out.println("程序代码c");
     }
 }
